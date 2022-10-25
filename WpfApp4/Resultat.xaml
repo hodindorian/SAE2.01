@@ -1,0 +1,45 @@
+<UserControl x:Class="SAE.Resultat"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SAE"
+             mc:Ignorable="d" d:DesignWidth="1920" d:DesignHeight="1000" d:MinHeight="1000" d:MinWidth="1920">
+    <ContentControl x:Name="Page">
+        <Grid Background="#FFEEDFB5" RenderTransformOrigin="0.579,0.632">
+            <TextBox Margin="400,300,400,196"                                    Background="#FFFFC13B" TextWrapping="Wrap" FontSize="39" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFC6D40" TextChanged="TextBox_TextChanged" Text="Aujourd'hui vous avez consommé          calories.&#xA;La dose recommandé pour un homme est de 2100 kcal.&#xA;La dose recommandé pour une femme est 1800 kcal.&#xA;Vous avez aussi consommé             g de lipides.&#xA;La dose recommandé pour un homme ou une femme&#xA;est de 0.8g par kilos.&#xA;Vous avez consommé          g de glucides.&#xA;La dose recommandé pour un homme est de 300 grammes.&#xA;La dose recommandé pour une femme est 240 grammes.&#xA;Vous avez aussi consommé des vitamines "/>
+
+            <TextBox Margin="556,87,559,781"                                    Background="#FFEEDFB5" TextWrapping="Wrap" Width="805" FontSize="90" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40" TextDecorations="Underline"  FontWeight="Bold" Text="Resultat du test :" />
+            <ListBox Margin="1115,306,712,660"  Background="#FFFFC13B" BorderBrush="#FFFFC13B" >
+                <ListBoxItem Height="30"                        Background="#FFFFC13B" FontSize="39" FontFamily="Mongolian Baiti" BorderBrush="#FFFFC13B"/>
+            </ListBox>
+            <ListBox Margin="1028,441,799,537"  Background="#FFFFC13B" BorderBrush="#FFFFC13B" >
+                <ListBoxItem Height="30"                        Background="#FFFFC13B" FontSize="39" FontFamily="Mongolian Baiti" BorderBrush="#FFFFC13B"/>
+            </ListBox>
+            <TextBox Margin="995,578,860,392"   Background="#FFFFC13B" TextWrapping="Wrap" FontSize="30" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFFC13B"    FontWeight="Bold" Text="{Binding Glucides, Mode=OneWay}" TextChanged="TextBox_TextChanged_1" />
+            <TextBox Margin="1129,308,726,672"   Background="#FFFFC13B" TextWrapping="Wrap" FontSize="30" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFFC13B"    FontWeight="Bold" Text="{Binding Calories, Mode=OneWay}" TextChanged="TextBox_TextChanged_1" />
+            <TextBox Margin="1042,441,814,537"   Background="#FFFFC13B" TextWrapping="Wrap" FontSize="30" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFFC13B"    FontWeight="Bold" Text="{Binding Lipides, Mode=OneWay}" TextChanged="TextBox_TextChanged_1" />
+
+            <ListBox Margin="1292,710,0,246"  Background="#FFFFC13B" BorderBrush="#FFFFC13B" HorizontalAlignment="Left" ItemsSource="{Binding AlimentChoisit.Vit, Mode=OneWay }" RenderTransformOrigin="-3.455,1.432" Width="207" FontSize="40">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel IsItemsHost="True" />
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+            <ListBox Margin="0,0,10,928" Background="#FFEEDFB5">
+                <Button  Margin="300,10,778,950"   Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="RetourAnalyse" Content="Analyse de votre alimentation" />
+                <Button  Margin="805,-990,778,950"  Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="RetourAliment" Content="Retour Page Liste des Aliments" />
+                <Button  Margin="1250,-1000,778,950"  Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="Acceuil"       Content="Retour Page Principale" />
+            </ListBox>
+
+        </Grid>
+    </ContentControl>
+</UserControl>

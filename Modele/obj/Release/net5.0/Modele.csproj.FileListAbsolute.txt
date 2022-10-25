@@ -1,0 +1,12 @@
+C:\Users\Storm\Documents\documents\Deploiement\Modele\bin\Release\net5.0\Modele.deps.json
+C:\Users\Storm\Documents\documents\Deploiement\Modele\bin\Release\net5.0\Modele.dll
+C:\Users\Storm\Documents\documents\Deploiement\Modele\bin\Release\net5.0\Modele.pdb
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\Modele.csproj.AssemblyReference.cache
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\Modele.AssemblyInfoInputs.cache
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\Modele.AssemblyInfo.cs
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\Modele.dll
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\refint\Modele.dll
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\Modele.pdb
+C:\Users\Storm\Documents\documents\Deploiement\Modele\obj\Release\net5.0\ref\Modele.dll

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Abricot.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Aliment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Analyse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="main.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resultat.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Abricot.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Aliment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Analyse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="main.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resultat.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

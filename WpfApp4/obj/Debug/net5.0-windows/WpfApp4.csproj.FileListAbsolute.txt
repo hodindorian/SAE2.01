@@ -1,0 +1,618 @@
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\main.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAE2.01\SAE\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\refint\WpfApp4.dll
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Dorian\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\refint\WpfApp4.dll
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\Dorian\source\repos\sae2.01\WpfApp4\bin\Debug\net5.0-windows\images\noixcoco.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\refint\WpfApp4.dll
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Dorian\Documents\SAE\SAE2.01\Code\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\UCSports.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\main.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\UCSports.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\ralacote\Source\Repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\UCSports.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\UCSports.baml
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\refint\WpfApp4.dll
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Storm\Documents\documents\SAEBoss\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\main.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEVide\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\main.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+U:\algoV2\SAE_2.01_V2\SAEBIS\SAEDossierFinale\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+C:\Users\Dorian\source\repos\sae2.01-final\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\refint\WpfApp4.dll
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Storm\Documents\documents\Deploiement\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+C:\Users\ralacote\source\repos\PAF\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\ralacote\source\repos\PAF\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\ralacote\source\repos\A - Copie (3)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\abricot.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\ananas.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\banane.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\cerise.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\kiwana.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\kiwi.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\melon.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\Images\noixcoco.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\orange.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\pasteque.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\poire.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\pomme.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\images\corbeille.png
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\Modele.dll
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\bin\Debug\net5.0-windows\Modele.pdb
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\Abricot.g.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\Aliment.g.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\Analyse.g.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\main.g.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\Resultat.g.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_Content.g.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\Abricot.baml
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\Aliment.baml
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\Analyse.baml
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\main.baml
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\Resultat.baml
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\ralacote\source\repos\A - Copie (5)\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache

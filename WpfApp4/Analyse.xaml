@@ -1,0 +1,125 @@
+<UserControl x:Class="SAE.Analyse"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SAE"
+             mc:Ignorable="d" d:DesignWidth="1920" d:DesignHeight="1000" d:MinHeight="1000" d:MinWidth="1920">
+    <ContentControl x:Name="Page">
+        <Grid Background="#FFEEDFB5" RenderTransformOrigin="0.579,0.632" Margin="10,0,-10,0" Height="1005" Canvas.Left="10" Canvas.Top="10" Width="1930">
+            <TextBox Margin="440,102,440,823"   Background="#FFFF6E40" TextWrapping="Wrap" FontSize="76" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFC6D40"                         Text="Analyse de votre alimentation"/>
+            <TextBox Margin="150,250,1200,688" Background="#FFFFC13B" TextWrapping="Wrap" FontSize="55" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFC6D40" Height="71" Width="570" Text="Entrée "/>
+            <TextBox Margin="150,600,1200,338" Background="#FFFFC13B" TextWrapping="Wrap" FontSize="55" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFC6D40" Height="71" Width="570" Text="Dessert"/>
+            <TextBox Margin="1200,600,150,338" Background="#FFFFC13B" TextWrapping="Wrap" FontSize="40" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFC6D40" Height="71" Width="570" Text="Sport (remplir l'activité et la durée)"/>
+            <TextBox Margin="1200,250,150,688" Background="#FFFFC13B" TextWrapping="Wrap" FontSize="55" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFC6D40" Height="71" Width="570" Text="Plat"/>
+            <ComboBox Margin="150,362,1200,567" SelectedIndex="0" FontSize="36" Name="Entree1" ItemsSource="{Binding Ali}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Nom}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ComboBox Margin="150,462,1200,464" SelectedIndex="0" FontSize="36" Name="Entree2" ItemsSource="{Binding Ali}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Nom}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ComboBox Margin="150,812,1200,108" SelectedIndex="0" FontSize="36" Name="Entree3" ItemsSource="{Binding Ali}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Nom}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ComboBox Margin="150,712,1200,212" SelectedIndex="0" FontSize="36" Name="Entree4" ItemsSource="{Binding Ali}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Nom}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ComboBox Margin="1200,362,150,567" SelectedIndex="0" FontSize="36" Name="Entree5" ItemsSource="{Binding Ali}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Nom}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ComboBox Margin="1200,464,150,466" SelectedIndex="0" FontSize="36" Name="Entree6" ItemsSource="{Binding Ali}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Nom}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ComboBox Margin="1200,714,280,214" SelectedIndex="0" FontSize="36" Name="Sport1" ItemsSource="{Binding Spo}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Nom}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ComboBox Margin="1200,816,280,112" SelectedIndex="0" FontSize="36" Name="Sport2" ItemsSource="{Binding Spo}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Nom}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Button  Margin="785,894,785,50"   Background="#FFFF6E40"                     FontSize="60"                        FontFamily="Mongolian Baiti" BorderBrush="#FFFF6E40" Height="71" Width="350" Content="Calculez ! "             Click="Calcul"/>
+            <ComboBox Margin="1685,714,150,214" SelectedIndex="0" FontSize="36" x:Name="Sport1Temps">
+                <ComboBoxItem>
+                    0
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    1
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    2
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    3
+                </ComboBoxItem>
+            </ComboBox>
+            <ComboBox Margin="1685,816,150,112" SelectedIndex="0" FontSize="36" x:Name="Sport2Temps" >
+                <ComboBoxItem>
+                    0
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    1
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    2
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    3
+                </ComboBoxItem>
+            </ComboBox>
+            <ListBox Margin="0,0,10,928" Background="#FFEEDFB5">
+                <Button  Margin="300,10,778,950"   Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="RetourAnalyse" Content="Analyse de votre alimentation" />
+                <Button  Margin="805,-990,778,950"  Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="RetourAliment" Content="Retour Page Liste des Aliments" />
+                <Button  Margin="1250,-1000,778,950"  Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="Acceuil"       Content="Retour Page Principale" />
+            </ListBox>
+
+        </Grid>
+    </ContentControl>
+</UserControl>
+

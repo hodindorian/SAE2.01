@@ -1,0 +1,50 @@
+<UserControl x:Class="SAE.Abricot"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SAE"
+             mc:Ignorable="d" d:DesignWidth="1920" d:DesignHeight="1000" d:MinHeight="1000" d:MinWidth="1920">
+    <ContentControl x:Name="Page">
+        <Grid Background="#FFEEDFB5" RenderTransformOrigin="0.579,0.632">
+
+            <Image   Margin="120,78,928,341"  Stretch="Fill" Source="{Binding AlimentChoisit.Image}"/>
+            <TextBox Margin="62,637,870,23"   Text="{Binding AlimentChoisit.Texte}"                             Background="#FFFFC13B" TextWrapping="Wrap" Width="988" FontSize="48" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFFC6D40"/>
+            <TextBox Margin="1076,77,39,791"   Text="{Binding AlimentChoisit.Nom}"                               Background="#FFEEDFB5" TextWrapping="Wrap" Width="805" FontSize="90" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40" TextDecorations="Underline"  FontWeight="Bold" TextChanged="TextBox_TextChanged" />
+            <TextBox Margin="1469,264,228,680"  Text="{Binding AlimentChoisit.TypeAli.CategoName, Mode=OneWay}"   Background="#FFEEDFB5" TextWrapping="Wrap"             FontSize="45" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40"                              FontWeight="Bold" TextChanged="TextBox_TextChanged" />
+            <TextBox Text="{Binding AlimentChoisit.Glucides, Mode=OneWay}"  Margin="1474,350,223,584"                                    Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="45" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40"  FontWeight="Bold" TextChanged="TextBox_TextChanged" />
+            <TextBox Margin="1226,249,451,680"                                    Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="50" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40"                                                Text="Catégorie :" />
+            <TextBox Text="{Binding AlimentChoisit.Proteines, Mode=OneWay}"  Margin="1468,452,229,482"                                    Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="45" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40"  FontWeight="Bold" TextChanged="TextBox_TextChanged" />
+            <TextBox Margin="1261,345,451,584" Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="50" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40"                                                Text="Calorie :" />
+            <ListBox Margin="1478,526,219,342" Background="#FFEEDFB5" BorderBrush="#FFEEDFB5"  ItemsSource="{Binding AlimentChoisit.Vit, Mode=OneWay }" FontSize="30" Foreground="#FFFF6E40">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <TextBox Margin="1220,446,457,482"                                    Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="50" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40"                                                Text="Protéines :" />
+            <TextBox Text="{Binding AlimentChoisit.Origines, Mode=OneWay}"  Margin="1478,676,219,248"                                    Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="45" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40"  FontWeight="Bold" TextChanged="TextBox_TextChanged" />
+            <TextBox Margin="1220,556,457,372"                                    Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="50" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40"                                                Text="Vitamine :" />
+            <ListBox Margin="1546,794,39,23" Background="#FFEEDFB5" BorderBrush="#FFEEDFB5" ItemsSource="{Binding AlimentChoisit.Exportateurs, Mode=OneWay }" FontSize="30" Foreground="#FFFF6E40">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding}"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <TextBox Margin="1264,679,442,251" Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="50" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40" Text="Origine :" />
+            <TextBox Margin="1190,784,380,65"  Background="#FFEEDFB5" TextWrapping="Wrap" FontSize="50" TextAlignment="Center" FontFamily="Mongolian Baiti" BorderBrush="#FFEEDFB5" Foreground="#FFFF6E40" Text="Principaux pays producteurs :" />
+            <ListBox Margin="0,0,10,928" Background="#FFEEDFB5">
+                <Button  Margin="300,10,778,950"   Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="RetourAnalyse" Content="Analyse de votre alimentation" />
+                <Button  Margin="805,-990,778,950"  Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="RetourAliment" Content="Retour Page Liste des Aliments" />
+                <Button  Margin="1250,-1000,778,950"  Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="Acceuil"       Content="Retour Page Principale" />
+            </ListBox>
+
+        </Grid>
+    </ContentControl>
+</UserControl>

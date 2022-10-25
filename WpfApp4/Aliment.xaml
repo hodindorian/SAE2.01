@@ -1,0 +1,65 @@
+﻿<UserControl x:Class="SAE.Aliment"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SAE"
+             mc:Ignorable="d" d:DesignWidth="1920" d:DesignHeight="1080" d:MinHeight="1080" d:MaxHeight="1080" d:MinWidth="1920">
+    <ContentControl x:Name="Page">
+
+        <Grid Background="#FFEEDFB5" RenderTransformOrigin="0.579,0.632">
+            <Canvas>
+                <!--<ListBox Name="Liste" VerticalAlignment="Top" HorizontalAlignment="Center" Height="1050" Width="300" Background="#FF1E3D59" FontFamily="Mongolian Baiti" FontSize="50" Canvas.Left="-2" Foreground="#FFFC6D40" >
+                    <ListBoxItem>Fruits</ListBoxItem>
+                    <ListBoxItem>Legumes</ListBoxItem>
+                    <ListBoxItem>Fromage</ListBoxItem>
+                    <ListBoxItem>Viandes</ListBoxItem>
+                    <ListBoxItem>Poissons</ListBoxItem>
+                </ListBox>-->
+
+                <ListBox Name="Liste" Height="1080" Width="300" Background="#FF1E3D59" FontFamily="Mongolian Baiti" FontSize="50" Canvas.Left="-2" Foreground="#FFFC6D40" ItemsSource="{Binding Cat}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <WrapPanel>
+                                <TextBlock Text="{Binding CategoName}"/>
+                            </WrapPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <Button Content="{Binding Ali[0].Nom}"            FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Abricot"    Height="49"    Width="208" Canvas.Left="408" Canvas.Top="308" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Button Content="{Binding Ali[1].Nom}"            FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Ananas"     Height="49"    Width="208" Canvas.Left="834" Canvas.Top="308" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <Button Content="{Binding Ali[2].Nom}"            FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Banane"     Height="49"    Width="208" Canvas.Left="1249" Canvas.Top="308"/>
+                <Button Content="{Binding Ali[3].Nom}"            FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Cerise"     Height="49"    Width="208" Canvas.Left="1664" Canvas.Top="308"/>
+                <Button Content="{Binding Ali[4].Nom}"            FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Kiwana"     Height="49"    Width="208" Margin="410,600,1302,393"/>
+                <Button Content="{Binding Ali[5].Nom}"              FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Kiwi"       Height="49"    Width="208" Margin="831,600,880,393" />
+                <Button Content="{Binding Ali[6].Nom}"             FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Melon"      Height="49"    Width="208" Margin="1249,600,459,393"/>
+                <Button Content="{Binding Ali[7].Nom}"      FontFamily="Mongolian Baiti" FontSize="36" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="NDC"        Height="49"    Width="208" Margin="1664,600,45,393"/>
+                <Button Content="{Binding Ali[8].Nom}"            FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Orange"     Height="49"    Width="208" Margin="410,925,1302,82"/>
+                <Button Content="{Binding Ali[9].Nom}"          FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Pasteque"   Height="49"    Width="208" Margin="831,925,880,82"/>
+                <Button Content="{Binding Ali[10].Nom}"             FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Poire"      Height="48"    Width="208" Margin="1249,925,459,82"/>
+                <Button Content="{Binding Ali[11].Nom}"             FontFamily="Mongolian Baiti" FontSize="40" Background="#FFFFC13B" BorderBrush="#FFFC6D40" Click="Pomme"      Height="49"    Width="208" Margin="1664,925,45,82"/>
+
+                <Image Source="{Binding Ali[0].Image}"    Canvas.Left="351"   Canvas.Top="49"  Height="256" Width="322" HorizontalAlignment="Left" VerticalAlignment="Top"  />
+                <Image Source="{Binding Ali[1].Image}"     Canvas.Left="864" Canvas.Top="72"  Height="232" Width="148" HorizontalAlignment="Left" VerticalAlignment="Top"  />
+                <Image Source="{Binding Ali[2].Image}"    Canvas.Left="1191"  Canvas.Top="50"  Height="268" Width="286"  />
+                <Image Source="{Binding Ali[3].Image}"    Canvas.Left="1605"  Canvas.Top="61"  Height="241" Width="252"  />
+                <Image Source="{Binding Ali[4].Image}"   Margin="329,374,1221,422"   Canvas.Left="-21" Canvas.Top="-12"  Height="222" Width="358"  />
+                <Image Source="{Binding Ali[5].Image}"     Margin="774,398,809,446"    Canvas.Left="-1"  Canvas.Top="-32"  Height="214" Width="307"  />
+                <Image Source="{Binding Ali[6].Image}"    Margin="1183,394,401,450"   Canvas.Left="62"  Canvas.Top="-37"  Height="280" Width="222"  />
+                <Image Source="{Binding Ali[7].Image}" Margin="1599,394,-15,450"   Canvas.Left="10"  Canvas.Top="-30"  Height="239" Width="350"  />
+                <Image Source="{Binding Ali[8].Image}"   Margin="364,722,1241,138"   Canvas.Left="-56" Canvas.Top="-12"  Height="207" Width="469"  />
+                <Image Source="{Binding Ali[9].Image}" Margin="765,722,819,138"    Canvas.Left="40"  Canvas.Top="-145" Height="470" Width="266"  />
+                <Image Source="{Binding Ali[10].Image}"    Margin="1186,723,410,118"   Canvas.Left="27"  Canvas.Top="-6"   Height="213" Width="288"  />
+                <Image Source="{Binding Ali[11].Image}"    Margin="1586,723,0,118"     Canvas.Left="-26" Canvas.Top="-126" Height="432" Width="358"/>
+
+                <ListBox Margin="0,0,10,928" Background="#FFEEDFB5" Height="72" Width="1607" Canvas.Left="303">
+                    <Button  Margin="300,10,778,950"   Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="RetourAnalyse" Content="Analyse de votre alimentation" />
+                    <Button  Margin="805,-990,778,950"  Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="RetourAliment" Content="Retour Page Liste des Aliments" />
+                    <Button  Margin="1250,-1000,778,950"  Background="#FFFF6E40" FontSize="25" FontFamily="Mongolian Baiti" BorderBrush="Black" Click="Acceuil"       Content="Retour Page Principale" />
+                </ListBox>
+
+            </Canvas>
+            
+        </Grid>
+    </ContentControl>
+</UserControl>
